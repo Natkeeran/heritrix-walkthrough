@@ -20,6 +20,10 @@ apt-get -y install build-essential automake libtool
 # Git vim
 apt-get -y install git vim
 
+# Unzip
+apt-get install zip
+apt-get install unzip
+
 # Java 
 apt-get install -y software-properties-common
 apt-get install -y python-software-properties
